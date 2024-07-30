@@ -4,7 +4,6 @@ import eslint from 'vite-plugin-eslint';
 import * as path from 'path';
 
 export default defineConfig({
-	base: '/rtpl/',
 	plugins: [react(), eslint()],
 	resolve: {
 		alias: [

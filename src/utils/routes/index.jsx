@@ -24,7 +24,7 @@ const SamplePage = withLazyLoadably(lazy(() => import('@/pages/conferenceroom'))
 
 function Router() {
 	return (
-		<BrowserRouter basename="/rtpl">
+		<BrowserRouter>
 			<ScrollToTopOnRouteChange>
 				<Routes>
 					<Route path="/" element={<MainLayout />}>
