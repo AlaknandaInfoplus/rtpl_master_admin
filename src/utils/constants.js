@@ -9,6 +9,6 @@ export default {
 	language: 'es_mx',
 	siteData: {
 		siteUrl: 'https://rtpl-master-admin.vercel.app/',
-		siteRepo: 'https://github.com/Tono2007/slim-free-react-mui-template',
+		// siteRepo: 'https://github.com/Tono2007/slim-free-react-mui-template',
 	},
 };

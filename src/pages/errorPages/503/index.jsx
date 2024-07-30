@@ -43,7 +43,7 @@ function Page503() {
 			<Button variant="outlined" size="small" component={Link} to="/">
 				BACK TO HOME
 			</Button>
-			<Typography variant="caption">© Copyright 2023. All Rights Reserved. Slim React MUI Template</Typography>
+			<Typography variant="caption">© Copyright 2023. All Rights Reserved. RTPL</Typography>
 		</Stack>
 	);
 }

@@ -230,7 +230,7 @@ function ReceptionistData() {
 				</Table>
 			</TableContainer>
 			<Dialog open={dialogOpen} onClose={handleDialogClose} fullWidth maxWidth="md">
-				<DialogTitle>Receptionist Entry</DialogTitle>
+				<DialogTitle>Admin Entry</DialogTitle>
 				<DialogContent style={{ paddingTop: '10px' }}>
 					<Grid container spacing={3}>
 						<Grid item xs={6}>

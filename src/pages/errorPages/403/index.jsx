@@ -47,7 +47,7 @@ function Page403() {
 					fontSize: 110,
 				}}
 			/>
-			<Typography variant="caption">SLIM React MUI Template. 2023</Typography>
+			<Typography variant="caption">RTPL. 2023</Typography>
 		</Stack>
 	);
 }
