@@ -7,15 +7,11 @@
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
-		"dev:host": "vite --host",
 		"build": "vite build",
 		"preview": "vite preview",
 		"lint": "eslint src/**/*.{js,jsx,ts,tsx,json}",
 		"lint:fix": "eslint --fix --ext .js,.jsx .",
-		"format": "prettier --write .",
-		"installD": "npm install --no-audit --no-fund --no-optional",
-		"predeploy": "npm run build && cp ./dist/index.html ./dist/404.html",
-		"deploy": "gh-pages -d dist"
+		"format": "prettier --write ."
 	},
 	"dependencies": {
 		"@emotion/react": "^11.10.6",

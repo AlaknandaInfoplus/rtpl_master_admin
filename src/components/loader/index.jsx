@@ -7,7 +7,7 @@ import Box from '@mui/material/Box';
 import Card from '@mui/material/Card';
 import LinearProgress from '@mui/material/LinearProgress';
 
-import logo from '@/assets/images/logo/png/Color_logotext_nobg.png';
+// import logo from '@/assets/images/logo/png/Color_logotext_nobg.png';
 
 export function LogoLoader({ addSx, ...rest }) {
 	return (
