@@ -2,7 +2,7 @@
 	"name": "slim-mui-template",
 	"private": false,
 	"version": "1.0.0",
-	"homepage": "https://rtpl-master-admin.vercel.app/rtpl",
+	"homepage": ".",
 	"license": "MIT",
 	"type": "module",
 	"scripts": {
